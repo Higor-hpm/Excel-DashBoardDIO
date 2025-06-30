@@ -1,6 +1,6 @@
 # 🚀 Dashboard de Vendas – Excel
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/Excel-Sales-Dashboard)
+![GitHub repo size](https://img.shields.io/github/repo-size/Higor-hpm/Excel-DashBoardDIO)
 
 ---
 
