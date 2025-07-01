@@ -41,7 +41,7 @@ Dashboard em Excel que apresenta as vendas de assinaturas PS PLUS, com indicador
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/SEU_USUARIO/Excel-Sales-Dashboard.git
+    git clone https://github.com/SEU_USUARIO/Excel-DashboardDIO.git
     ```
 2. **Abra** `SalesDashboard.xlsx` no Excel (ativar macros, se houver).
 3. **Atualize os dados** na aba `Data` com suas próprias vendas.
